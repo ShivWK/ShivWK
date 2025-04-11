@@ -1,14 +1,14 @@
 ## Hi there 👋, I'm Shivendra
 
 ## 🌐 Socials: Connect with me here
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivendrawk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shivendra-dwivedi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivendrawk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivendrawk@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivendrawk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivendra-dwivedi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivendrawk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivendrawk@gmail.com) 
 
 ## 👋 About Me
 
 I'm a passionate self-taught developer from India, working hard to break into the tech world with solid frontend skills and a creative mindset. 🚀
 
-- 🎯 **Currently Learning**: TypeScript, Redux Toolkit, Firebase, and GraphQL  
-- 🧠 **Exploring**: MERN Stack, DSA (focused on frontend interviews), and Progressive Web Apps  
+- 🎯 **Currently Learning**: TypeScript, Firebase, GraphQL and Backend
+- 🧠 **Exploring**: MERN Stack, DSA (focused on frontend interviews), and Progressive Web Apps
 - 🔨 **Currently Developing**: Frontend projects using **Next.js** + **Firebase**, including a real-time Chat App and an E-commerce platform  
 - 💻 **Looking Ahead**: Open to internship or entry-level frontend roles as I continue sharpening my skills  
 - 🌱 **Goals**:  
