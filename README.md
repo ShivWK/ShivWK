@@ -13,14 +13,14 @@
 
 I'm a passionate self-taught developer from India, working hard to break into the tech world with solid frontend skills and a creative mindset. 🚀
 
-- 🎯 **Currently Learning**: TypeScript, Firebase, GraphQL and Backend
-- 🧠 **Exploring**: MERN Stack, DSA (focused on frontend interviews), and Progressive Web Apps
-- 🔨 **Currently Developing**: Frontend projects using **Next.js** + **Firebase**, including a real-time Chat App and an E-commerce platform  
-- 💻 **Looking Ahead**: Open to internship or entry-level frontend roles as I continue sharpening my skills  
+- 🎯 **Currently Learning**: TypeScript, Firebase, GraphQL and Backend.
+- 🧠 **Exploring**: MERN Stack, DSA (focused on frontend interviews), and Progressive Web Apps.
+- 🔨 **Currently Developing**:Currently Developing: Frontend projects using **React.js** + **Node.js/Firebase**, including a live video streaming web app with AI and an E-commerce platform.  
+- 💻 **Looking Ahead**: Open to internship or entry-level frontend roles as I continue sharpening my skills.  
 - 🌱 **Goals**:  
-  - Build scalable, impactful projects  
-  - Crack a high-paying role at a product-based company  
-  - Launch my own tech company someday
+  - Build scalable, impactful projects. 
+  - Crack a high-paying role at a product-based company.  
+  - Launch my own tech company someday.
 
 I enjoy building things that are clean, functional, and user-friendly. I’m a big believer in **learning in public**, and I regularly share my journey and insights here on GitHub and on LinkedIn.
 
@@ -39,10 +39,10 @@ Let’s connect and grow together! 🚀
 
 **Frontend Development**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 
 **State Management & Routing**  
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
@@ -60,7 +60,11 @@ Let’s connect and grow together! 🚀
 **Authentication & APIs**  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white) 
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+![CSRF](https://img.shields.io/badge/CSRF-security-orange?style=for-the-badge) 
+![Cookies](https://img.shields.io/badge/Cookies-brown?style=for-the-badge)
 
 **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
